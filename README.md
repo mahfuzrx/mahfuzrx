@@ -27,6 +27,12 @@ Currently Learning Flutter
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahfuzrx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahfuzrx/mahfuzrx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
