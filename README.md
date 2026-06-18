@@ -1,8 +1,13 @@
 <div align="center">
 
-# 💫 About Me
-Working On : Astral Studios  
-Currently Learning Flutter
+<img src="./mahfuz.png" width="750">
+
+<br><br>
+
+**Full Stack Developer • Minecraft Developer • Founder @Astral Studios**
+
+</div>
+<div align="center">
 
 ## 🌐 Socials
 
