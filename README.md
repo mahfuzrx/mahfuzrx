@@ -9,13 +9,13 @@
 </div>
 <div align="center">
 
-## 🌐 Socials
+## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dK5gWVqhPm)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uiux.mahfuzz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:flexxycodes@gmail.com)
 
-# 💻 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=mahfuzrx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -55,12 +55,4 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahfuzrx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahfuzrx/mahfuzrx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
