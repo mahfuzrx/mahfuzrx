@@ -49,7 +49,6 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=mahfuzrx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=mahfuzrx&theme=dark&hide_border=false)
 
